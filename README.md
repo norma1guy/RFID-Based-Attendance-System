@@ -6,6 +6,9 @@ In this system, each student is issued an RFID tag. Controlling unit is in the i
 
 ## Circuit
 
+![5](https://user-images.githubusercontent.com/49033890/131826761-c02ea75a-9ec0-40d3-87b0-59fcaaa72d9f.png)
+
+
 ## Circuit Components 
 AT89C51 Microcontroller
 AT89C51 Programming Board
